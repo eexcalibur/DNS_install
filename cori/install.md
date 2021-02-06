@@ -6,6 +6,7 @@ conda activate dns
 conda install -c eumetsat fftw3
 conda install -c conda-forge libgd
 conda install -c birdhouse/label/non-commercial szip
+conda install -c conda-forge hdf5-static
 ```
 
 # install hdf4
